@@ -1,0 +1,12 @@
+/Users/matt/RiderProjects/UnitTestProject/UnitTestProject/bin/Debug/netcoreapp2.0/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/Users/matt/RiderProjects/UnitTestProject/UnitTestProject/bin/Debug/netcoreapp2.0/xunit.runner.utility.netstandard15.dll
+/Users/matt/RiderProjects/UnitTestProject/UnitTestProject/bin/Debug/netcoreapp2.0/xunit.runner.reporters.netstandard15.dll
+/Users/matt/RiderProjects/UnitTestProject/UnitTestProject/bin/Debug/netcoreapp2.0/UnitTestProject.deps.json
+/Users/matt/RiderProjects/UnitTestProject/UnitTestProject/bin/Debug/netcoreapp2.0/UnitTestProject.runtimeconfig.json
+/Users/matt/RiderProjects/UnitTestProject/UnitTestProject/bin/Debug/netcoreapp2.0/UnitTestProject.runtimeconfig.dev.json
+/Users/matt/RiderProjects/UnitTestProject/UnitTestProject/bin/Debug/netcoreapp2.0/UnitTestProject.dll
+/Users/matt/RiderProjects/UnitTestProject/UnitTestProject/obj/Debug/netcoreapp2.0/UnitTestProject.csproj.CoreCompileInputs.cache
+/Users/matt/RiderProjects/UnitTestProject/UnitTestProject/obj/Debug/netcoreapp2.0/UnitTestProject.AssemblyInfo.cs
+/Users/matt/RiderProjects/UnitTestProject/UnitTestProject/obj/Debug/netcoreapp2.0/UnitTestProject.dll
+/Users/matt/RiderProjects/UnitTestProject/UnitTestProject/obj/Debug/netcoreapp2.0/UnitTestProject.pdb
+/Users/matt/RiderProjects/UnitTestProject/UnitTestProject/bin/Debug/netcoreapp2.0/obj/Debug/netcoreapp2.0/UnitTestProject.pdb
